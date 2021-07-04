@@ -3,6 +3,7 @@
 - 🌱 I’m currently Working Digital Marketing
 - 💞️ I’m looking to collaborate on Gmb Verification Mathod
 - 📫 How to reach me ...
+- Gmb instant verification https://gmblisting.us/
 
 <!---
 earntrust/earntrust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
